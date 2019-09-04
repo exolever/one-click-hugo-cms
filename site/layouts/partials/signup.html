@@ -3,25 +3,25 @@
   <!-- Modal content -->
   <div class="modal-content">
     <div class="modal-header">
-      I'm interested<span class="close">&times;</span>
+      {{ i18n "interested" }}<span class="close">&times;</span>
     </div>
     <div class="modal-body">
       <div class="title">{{ .Params.title}}</div>
       <div class="divider"></div>
       <div id="form-layer">
         <form id="form-sign-up" action="{{ .Params.signUpApi }}" method="post" validate data-hubspotproperty="SUMMITS_SIGNUPS">
-          <p>Join the ExO Community and receive the latest news regarding this specific event. </p>
+          <p>{{ i18n "get-news" }} </p>
           <input type='hidden' name='custom' id='custom' value="{{.Params.onboarding_text}}">
-          <div class="label mv2">First name *</div>
+          <div class="label mv2">{{ i18n "first-name" }} *</div>
           <div class=" mv2"><input type="text" name="first_name" required id="first_name"/></div>
-          <div class="label mv2">Last name *</div>
+          <div class="label mv2">{{ i18n "last-name" }} *</div>
           <div class=" mv2"><input type="text" name="last_name" required id="last_name"/></div>
-          <div class="label mv2">Email *</div>
+          <div class="label mv2">{{ i18n "email" }} *</div>
           <div class="mv2"><input type="email" name="email" required id="email" /></div>
           <div class="label mv2">
             <input type="checkbox" name="privacy" required id="privacy" />
-            I understand and agree with the
-            <a href="https://www.openexo.com/privacy-policy" target="_blank" class="without-hover">Privacy Policy and Cookies *</a>
+            {{ i18n "agreement-1" }}
+            <a href="https://www.openexo.com/privacy-policy" target="_blank" class="without-hover">{{ i18n "agreement-2" }} *</a>
           </div>
           <div class="buttons tc center">
             <input type="submit" class="btn bg-primary white" id="sign-button"/>
@@ -29,18 +29,18 @@
         </form>
       </div>
       <div id="form-layer-ok">
-        <div class="title">You have signed up to the community.</div>
-        <div class="subtitle">Stay tuned to your inbox for more information</div>
+        <div class="title">{{ i18n "signed-community" }}</div>
+        <div class="subtitle">{{ i18n "stay-tunned" }}</div>
         <div>
             <button class="button-close btn bg-primary white">OK</button>
           </div>
       </div>
       <div id="form-layer-ko">
-        <div class="title">Hmm, that's strange...</div>
-        <div class="subtitle">Something went wrong and your request was unable to go through. Please refresh and try again.</div>
+        <div class="title">{{ i18n "strange" }}</div>
+        <div class="subtitle">{{ i18n "strange-subtitle" }}</div>
         <div>
-          <button class="button-close btn bg-grey-2 white">OK</button>
-          <button class="button-try btn bg-primary white">TRY AGAIN</button>
+          <button class="button-close btn bg-grey-2 white">{{ i18n "try-again" }}</button>
+          <button class="button-try btn bg-primary white">{{ i18n "ok" }}</button>
         </div>
       </div>
     </div>

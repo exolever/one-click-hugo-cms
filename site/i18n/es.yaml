@@ -4,3 +4,51 @@
   translation: "REGISTRAR"
 - id: interested
   translation: "ME INTERESA"
+- id: about-organizers
+  translation: "Sobre los Organizadores"
+- id: organizations-sprint
+  translation: "Organizaciones que han realizado el ExO Sprint"
+- id: contact
+  translation: "Contacto"
+- id: about-model
+  translation: "Acerca de ExO Model"
+- id: join
+  translation: "Únete al ExO Summit"
+- id: questions
+  translation: "¿Preguntas?"
+- id: contact-us
+  translation: "Contáctanos"
+- id: know-about-summit
+  translation: "Sé el primero en conocer los siguientes ExO Summits"
+- id: featured-guests
+  translation: "Invitados destacados"
+- id: partners-title
+  translation: "Patrocinadores / Aliados / Socios"
+- id: visit-webpage
+  translation: "VISITA LA WEBPAGE"
+- id: get-news
+  translation: "Únete a la ExO Community y recibe las últimas noticias de este evento"
+- id: first-name
+  translation: "Nombre"
+- id: last-name
+  translation: "Apellido"
+- id: email
+  translation: "Email"
+- id: visit-webpage
+  translation: "VISITA LA WEBPAGE"
+- id: agreement-1
+  translation: "Entiendo y estoy de acuerdo con la "
+- id: agreement-2
+  translation: "Política de Privacidad y Cookies"
+- id: signed-community
+  translation: "Se ha registrado en la comunidad."
+- id: stay-tunned
+  translation: "Esté atento a su bandeja de entrada para obtener más información."
+- id: strange
+  translation: "Hmm, esto es extraño..."
+- id: strange-subtitle
+  translation: "Algo salió mal y no se pudo procesar su solicitud. Por favor, actualice y pruebe de nuevo."
+- id: try-again
+  translation: "Pruebe otra vez"
+- id: ok
+  translation: "OK"

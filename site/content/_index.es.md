@@ -1,5 +1,5 @@
 ---
-title: ACME Exponential Summit
+title: ExO Summit London 2019
 subtitle: 'OPENEXO & ACME PRESENT'
 location: 'London, United Kingdom'
 when: '12 Noviembre'
@@ -21,8 +21,6 @@ blurb:
     heading: "Exponentiality and Disruption"
     text: >
       <p>El ExO Summit es un evento muy práctico donde líderes mundiales, ejecutivos, emprendedores y agentes de cambio se reúnen para compartir sus experiencias transformadoras, intercambiar ideas, desafiar creencias y atreverse a transformar nuestro tejido empresarial utilizando el Modelo ExO.</p>
-      <p>Te invitamos a ser parte de este primer ExO Summit en Centro América y experimentar el poder del Modelo ExO que ya ha transformado a múltiples compañías, personas e instituciones en todo el mundo.</p>
-      <p>Discover all we can do together and inspire others.</p>
 program:
     heading: "Que encontrarás en este Summit"
     description: >

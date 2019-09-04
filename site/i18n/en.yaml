@@ -3,4 +3,50 @@
 - id: signup
   translation: "SIGN UP"
 - id: interested
-  translation: "INTERESTED"
+  translation: "I'M INTERESTED"
+- id: about-organizers
+  translation: "About the Organizers"
+- id: organizations-sprint
+  translation: "Organizations that already conducted an ExO Sprint"
+- id: contact
+  translation: "Contact"
+- id: about-model
+  translation: "About the ExO Model"
+- id: join
+  translation: "Join the ExO Summit"
+- id: questions
+  translation: "Questions?"
+- id: contact-us
+  translation: "Contact us"
+- id: know-about-summit
+  translation: "Be the first to know about future ExO Summits"
+- id: featured-guests
+  translation: "Featured Guests"
+- id: partners-title
+  translation: "Allies / Partners / Sponsors"
+- id: visit-webpage
+  translation: "VISIT WEBPAGE"
+- id: get-news
+  translation: "Join the ExO Community and receive the latest news regarding this specific event."
+- id: first-name
+  translation: "First Name"
+- id: last-name
+  translation: "Last name"
+- id: email
+  translation: "Email"
+- id: agreement-1
+  translation: "I understand and agree with the"
+- id: agreement-2
+  translation: "Privacy Policy and Cookies"
+- id: signed-community
+  translation: "You have signed up to the community."
+- id: stay-tunned
+  translation: "Stay tuned to your inbox for more information"
+- id: strange
+  translation: "Hmm, that's strange..."
+- id: strange-subtitle
+  translation: "Something went wrong and your request was unable to go through. Please refresh and try again."
+- id: try-again
+  translation: "Try again"
+- id: ok
+  translation: "OK"
