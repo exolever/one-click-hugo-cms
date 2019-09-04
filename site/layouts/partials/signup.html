@@ -9,7 +9,7 @@
       <div class="title">{{ .Params.title}}</div>
       <div class="divider"></div>
       <div id="form-layer">
-        <form id="form-sign-up" action="{{ .Params.signUpApi }}" method="post" validate data-hubspotproperty="SUMMITS_SIGNUPS">
+        <form id="form-sign-up" action="{{ .Params.signUpApi }}" method="post" validate data-hubspotproperty="SUMMITS_SIGNUPS" data-hubspotcity="{{.Params.location}}">
           <p>Join the ExO Community and receive the latest news regarding this specific event. </p>
           <input type='hidden' name='custom' id='custom' value="{{.Params.onboarding_text}}">
           <div class="label mv2">First name *</div>
