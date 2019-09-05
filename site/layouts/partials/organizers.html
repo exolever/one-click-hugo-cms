@@ -1,6 +1,6 @@
 <div class="push-bottom-xl wrapper organizers-wrapper">
   <div class="mhn1-l center wp-960">
-    <div class="push-bottom w-100 primary fp32 b tc">About the Organizers</div>
+    <div class="push-bottom w-100 primary fp32 b tc">{{ i18n "about-organizers" }}</div>
     <div class="w-100-l push-bottom flex-l ">
       {{ range .Params.organizers }}
         <div class="w-50 mr3 tc w-100-mbl">
@@ -10,8 +10,8 @@
             </div>
             <div class="tl fp16 push-top-sm">{{ .description | safeHTML }}</div>
           </div>
-          <div class="w-50 mr3 tc w-100-mbl btn-group push-bottom">
-            <a href="{{.url}}" target="_blank" class="center mt3 btn mb3 w-auto-ns mb0-ns bg-grey-2 tc primary">VISIT WEBPAGE</a>
+          <div class="w-50 mr3 tc w-100-mbl btn-group push-bottom center">
+            <a href="{{.url}}" target="_blank" class="center mt3 btn mb3 w-auto-ns mb0-ns bg-grey-2 tc primary">{{ i18n "visit-webpage" }}</a>
           </div>
         </div>
       {{ end }}

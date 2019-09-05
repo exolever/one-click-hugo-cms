@@ -1,5 +1,5 @@
 ---
-title: ACME Exponential Summit
+title: ExO Summit London 2019
 subtitle: 'OPENEXO & ACME PRESENT'
 location: 'London, United Kingdom'
 when: '12 Noviembre'
@@ -21,8 +21,6 @@ blurb:
     heading: "Exponentiality and Disruption"
     text: >
       <p>El ExO Summit es un evento muy práctico donde líderes mundiales, ejecutivos, emprendedores y agentes de cambio se reúnen para compartir sus experiencias transformadoras, intercambiar ideas, desafiar creencias y atreverse a transformar nuestro tejido empresarial utilizando el Modelo ExO.</p>
-      <p>Te invitamos a ser parte de este primer ExO Summit en Centro América y experimentar el poder del Modelo ExO que ya ha transformado a múltiples compañías, personas e instituciones en todo el mundo.</p>
-      <p>Discover all we can do together and inspire others.</p>
 program:
     heading: "Que encontrarás en este Summit"
     description: >
@@ -68,31 +66,31 @@ save:
 about: >
   El Modelo ExO (por sus siglas en inglés Exponential Organizations), basado en el best-seller <a href="https://www.openexo.com/books" target="_blank">‘Organizaciones Exponenciales’</a>, ofrece una guía para diseñar Organizaciones Exponenciales mediante la aplicación de 10 atributos y un proceso de 10 semanas para su implementación, llamado ExO Sprint.
 logos:
-    - url: /img/airbus-logo/airbus_2x.png
-    - url: /img/bogota-logo/bogota_2x.png
-    - url: /img/gucci-logo/gucci_2x.png
-    - url: /img/hp-logo/hp_2x.png
-    - url: /img/thecityofmiami/miami_2x.png
-    - url: /img/pg-logo/pg_2x.png
-    - url: /img/sareb-logo/sareb_2x.png
-    - url: /img/organizations/stanley_2x.png
-    - url: /img/organizations/unilever_2x.png
-    - url: /img/organizations/visa_2x.png
+    - url: /img/airbus-logo/airbus.png
+    - url: /img/bogota-logo/bogota.png
+    - url: /img/gucci-logo/gucci.png
+    - url: /img/hp-logo/hp.png
+    - url: /img/thecityofmiami/miami.png
+    - url: /img/pg-logo/pg.png
+    - url: /img/sareb-logo/sareb.png
+    - url: /img/organizations/stanley.png
+    - url: /img/organizations/unilever.png
+    - url: /img/organizations/visa.png
 carousel:
   - image: /img/quote1.png
   - image: /img/quote2.png
   - image: /img/quote3.png
   - image: /img/quote4.png
 allies:
-  - image: /img/pg-logo/pg-logo.png
-  - image: /img/pg-logo/pg-logo.png
-  - image: /img/pg-logo/pg-logo.png
-  - image: /img/pg-logo/pg-logo.png
-  - image: /img/pg-logo/pg-logo.png
-  - image: /img/pg-logo/pg-logo.png
-  - image: /img/pg-logo/pg-logo.png
-  - image: /img/pg-logo/pg-logo.png
-  - image: /img/pg-logo/pg-logo.png
+  - image: /img/pg-logo/pg.png
+  - image: /img/pg-logo/pg.png
+  - image: /img/pg-logo/pg.png
+  - image: /img/pg-logo/pg.png
+  - image: /img/pg-logo/pg.png
+  - image: /img/pg-logo/pg.png
+  - image: /img/pg-logo/pg.png
+  - image: /img/pg-logo/pg.png
+  - image: /img/pg-logo/pg.png
 prices:
   - name: "Option #1"
     description: >
