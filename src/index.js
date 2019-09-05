@@ -79,6 +79,7 @@ $(function(){
           entry_point: {
             'refereal': window.location.hostname,
             'name': $(this).data('hubspotproperty'),
+            'city': $(this).data('hubspotcity')
           }
       };
       var url = $(this).attr('action');
