@@ -1,5 +1,8 @@
 .join-box {
-    min-height: 400px;
+    min-height: 420px;
+}
+.join-box-wrapper:last-child {
+    margin-right: 0;
 }
 
 @media (max-width: 640px) {

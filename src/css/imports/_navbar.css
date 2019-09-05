@@ -3,9 +3,15 @@ nav .contact {
     top: 30px;
     right: 30px;
 }
+nav .logo {
+    margin: var(--exo-small) auto;
+}
 
 @media (max-width: 640px) {
     .contact {
         right: 0 !important;
+    }
+    nav .logo {
+        margin: var(--exo-small) 0;
     }
 }

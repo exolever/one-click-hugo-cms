@@ -4,7 +4,7 @@
     <div class=" push-bottom w-100 primary fp32 b tc">{{ i18n "join" }}</div>
     <div class="w-100-l mb1 flex-l justify-between">
       {{ range .Params.prices }}
-        <div class="push-right-sm tc">
+        <div class="push-right-sm tc join-box-wrapper">
           <div class="join-box">
             <p class="dark-blue tc fp24 b push-bottom-sm">{{.name}}</p>
             <p class="tl fp16">{{.description | safeHTML}}</p>
